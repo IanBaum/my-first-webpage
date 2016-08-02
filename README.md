@@ -15,7 +15,7 @@ _This is a simple website with basic HTML structure._
 
 ## Known Bugs
 
-_README won't upload._
+_No known bugs._
 
 ## Support and contact details
 
